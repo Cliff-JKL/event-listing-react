@@ -153,15 +153,15 @@ const EventPage = () => {
         {id}
       </p>
       <p>
-        Date:
+        Date:&nbsp;
         {event.date}
       </p>
       <p>
-        City:
+        City:&nbsp;
         {event.city}
       </p>
       <p>
-        Genre:
+        Genre:&nbsp;
         {event.genre}
       </p>
       <EventItem id={Number(id)} image={event.image} date={event.date.slice(0, 2)} name={name} />
