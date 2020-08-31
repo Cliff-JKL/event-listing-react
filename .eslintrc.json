@@ -1,10 +1,6 @@
 {
     "parser": "babel-eslint",
     "plugins": ["react"],
-    // "extends": [
-    //     "eslint:recommended",
-    //     "plugin:react/recommended"
-    // ],
     "extends": ["airbnb", "airbnb/hooks"],
     "settings": {
         "react": {

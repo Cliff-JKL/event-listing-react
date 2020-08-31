@@ -10,7 +10,7 @@ const App = () => (
   <div className={base.content}>
     <BrowserRouter>
       <Switch>
-        <Route exact path='/'>
+        <Route exact path="/">
           <MainPage />
         </Route>
         <Route path="/events/:id/:name">

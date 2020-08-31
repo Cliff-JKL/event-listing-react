@@ -7,6 +7,10 @@
 
 ## Launch
 
-Запустить проект:
+1. Запустить json-server:
+### npm run fakeBE
+
+2. Запустить проект:
 ### npm run start
-Открыть в браузере: (http://localhost:9000)
+
+3. Открыть в браузере: (http://localhost:9000)
